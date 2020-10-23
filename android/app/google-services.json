@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "377126003022",
+    "firebase_url": "https://mlkit-firebase-5b1f4.firebaseio.com",
+    "project_id": "mlkit-firebase-5b1f4",
+    "storage_bucket": "mlkit-firebase-5b1f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377126003022:android:54fcf6847d7517ccdabe1f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ocr_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377126003022-7ftbav0ht4cjduap15ituh01p4vmh0ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnsc54VWHveGkIex4UJP_gMlMDJW0OBZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377126003022-7ftbav0ht4cjduap15ituh01p4vmh0ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377126003022:android:9d328a1d18b84c4a",
+        "android_client_info": {
+          "package_name": "com.healme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377126003022-7ftbav0ht4cjduap15ituh01p4vmh0ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnsc54VWHveGkIex4UJP_gMlMDJW0OBZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377126003022-7ftbav0ht4cjduap15ituh01p4vmh0ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377126003022:android:a30bd65f25416c82",
+        "android_client_info": {
+          "package_name": "com.mlkitfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377126003022-7ftbav0ht4cjduap15ituh01p4vmh0ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnsc54VWHveGkIex4UJP_gMlMDJW0OBZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377126003022-7ftbav0ht4cjduap15ituh01p4vmh0ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377126003022:android:dfc50ed104c43b86",
+        "android_client_info": {
+          "package_name": "com.projekppp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377126003022-7ftbav0ht4cjduap15ituh01p4vmh0ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnsc54VWHveGkIex4UJP_gMlMDJW0OBZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377126003022-7ftbav0ht4cjduap15ituh01p4vmh0ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

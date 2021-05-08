@@ -4,6 +4,8 @@ Simple text recognition using Firebase ML Vision
 
 ## Getting Started
 
+don't forget to add firebase google service json to android project or ios
+
 library use in this project :
 - [camera](https://pub.dev/packages/camera)
 - [intl](https://pub.dev/packages/intl)
